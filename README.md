@@ -30,7 +30,7 @@ In this batch, we’re funding work on these particular applications:
     
 -   [Secret Benchmarking]
     
--   [Rock-Paper-Scissors](https://github.com/enigmampc/EnigmaBounties/issues/5)
+-   [Rock-Paper-Scissors](https://github.com/cankisagun/EnigmaBounties/issues/1)
 
 -   [NFT issuance]
 
