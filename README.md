@@ -1,5 +1,5 @@
 
-# Enigma Bounty Program
+# Secret Network Bounty Program
 
 We’re excited to announce our first bounty program!
 
@@ -9,7 +9,10 @@ This should result in several open-sourced repos that feature sample secret cont
 
 ## Bounty Guidelines
 
-Bounty submissions should contain well-documented code that can be followed along easily by another developer.
+Bounty submissions should contain: 
+- well-documented code that can be followed along easily by another developer
+- UI implementation for interaction with the secret contract
+- deployment in Secret Network testnet
   
 These bounties will become part of our educational resources moving forward, and will be available to future developers as examples, inspiration, and starting points.
 
@@ -21,20 +24,26 @@ In this batch, we’re funding work on these particular applications:
 
 -   [Secret Access-Control](https://github.com/enigmampc/EnigmaBounties/issues/1)
     
--   [Secret Benchmarking](https://github.com/enigmampc/EnigmaBounties/issues/2)
+-   [Secret Lottery]
     
--   [Non-Fungible Token Lottery](https://github.com/enigmampc/EnigmaBounties/issues/3)
+-   [Secret Auction]
     
--   [Secret Data Validation](https://github.com/enigmampc/EnigmaBounties/issues/4)
+-   [Secret Benchmarking]
     
 -   [Rock-Paper-Scissors](https://github.com/enigmampc/EnigmaBounties/issues/5)
+
+-   [NFT issuance]
+
+-   [Secret data merge]
+
+randomness, voting, rock-papers scissors,  auction, merging data sets, benchmarking tool, NFTs or token issuance on Enigma blockchain
 
 Each application is described in more detail inside the respective issue. 
 
 ## Rewards
 
-Rewards will be delivered in ENG. 
-The value of ETH to USD will be pegged at the time of transfer, after we've recieved recipients’ ETH addresses.
+Rewards will be delivered in SCRT. 
+The value of SCRT to USD will be pegged at the time of transfer, after we've recieved recipients’ SCRT addresses.
 
 ## Application Process
 
